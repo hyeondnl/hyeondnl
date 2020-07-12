@@ -1,4 +1,5 @@
-### Hi there 😄
+### Hi there! 😄
+<img src="https://visitor-badge.glitch.me/badge?page_id=hyeondnl.visitor-badge"> <a href="mailto:dev.hyeondnl+github@gmail.com?subject=[GitHub]"><img src="https://img.shields.io/badge/Gmail-hyeondnl-red.svg"></a>
 
 In The Hitchhiker's Guide to the Galaxy by Douglas Adams, the number 42 is
 > The Answer to the Ultimate Question of Life, the Universe, and Everything
